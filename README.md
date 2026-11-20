@@ -1,4 +1,5 @@
-# CBG Customer Voice Intelligence
+# CBG Customer sentiment analysis
+
 
 An AI-powered prototype that turns unstructured customer feedback into structured business intelligence: sentiment, emotion, intent, topic, urgency, customer risk, key issue, recommended action and a suggested customer response.
 
